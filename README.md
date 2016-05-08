@@ -1,3 +1,5 @@
 # alpimaAPI
 
-The test API
+To run, clone the repo, NPM install.
+
+Then cmd: node server.js
